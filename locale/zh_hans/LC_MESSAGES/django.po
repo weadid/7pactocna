@@ -1,0 +1,130 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-07-07 23:09+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: celerymonitor/settings.py:183
+msgid "Simple Chinese"
+msgstr ""
+
+#: celerymonitor/settings.py:184
+msgid "English"
+msgstr ""
+
+#: templates/base.html:8
+msgid "AdminLTE 2 | Dashboard"
+msgstr ""
+
+#: templates/base.html:53
+msgid "C"
+msgstr ""
+
+#: templates/base.html:53
+msgid "M"
+msgstr ""
+
+#: templates/base.html:55
+msgid "celery"
+msgstr ""
+
+#: templates/base.html:55
+msgid "monitor"
+msgstr ""
+
+#: templates/base.html:185
+msgid "logout"
+msgstr ""
+
+#: templates/base.html:202
+msgid "Dashboard"
+msgstr ""
+
+#: templates/base.html:208
+msgid "Workers"
+msgstr ""
+
+#: templates/base.html:209
+msgid "Worker Status"
+msgstr ""
+
+#: templates/base.html:210
+msgid "Pool Configuration"
+msgstr ""
+
+#: templates/base.html:211
+msgid "Queues Configuration"
+msgstr ""
+
+#: templates/base.html:212
+msgid "Reserved Tasks"
+msgstr ""
+
+#: templates/base.html:213
+msgid "Active Tasks"
+msgstr ""
+
+#: templates/base.html:214
+msgid "Registered Tasks"
+msgstr ""
+
+#: templates/base.html:215
+msgid "Job list"
+msgstr ""
+
+#: templates/base.html:216
+msgid "Task monitor"
+msgstr ""
+
+#: templates/base.html:217
+msgid "Task sate chart"
+msgstr ""
+
+#: templates/base.html:236
+msgid "Version"
+msgstr ""
+
+#: templates/base.html:238
+msgid "Copyright &copy; 2014-2016"
+msgstr ""
+
+#: templates/base.html:238
+msgid "Celery monitor"
+msgstr ""
+
+#: templates/base.html:238
+msgid "All rights reserved."
+msgstr ""
+
+#: templates/login.html:49
+msgid "<h2>Login</h2>"
+msgstr ""
+
+#: templates/login.html:52
+msgid "Please correct the error below."
+msgstr ""
+
+#: templates/login.html:52
+msgid "Please correct the errors below."
+msgstr ""
+
+#: templates/login.html:77
+msgid "Forgotten your password or username?"
+msgstr ""
+
+#: templates/login.html:82
+msgid "Log in"
+msgstr ""
